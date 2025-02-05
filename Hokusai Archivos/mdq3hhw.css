@@ -1,0 +1,45 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * alfarn:
+ *   - http://typekit.com/eulas/00000000000000007735bd28
+ * yantramanav:
+ *   - http://typekit.com/eulas/00000000000000007735b792
+ *   - http://typekit.com/eulas/00000000000000007735b795
+ *   - http://typekit.com/eulas/00000000000000007735b79e
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2025-02-04 20:18:15 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=mdq3hhw&ht=tk&f=39858.41156.41157.41159&a=187900895&app=typekit&e=css");
+
+@font-face {
+font-family:"alfarn";
+src:url("https://use.typekit.net/af/599ed7/00000000000000007735bd28/30/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/599ed7/00000000000000007735bd28/30/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/599ed7/00000000000000007735bd28/30/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"yantramanav";
+src:url("https://use.typekit.net/af/f4934a/00000000000000007735b792/30/l?subset_id=2&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/f4934a/00000000000000007735b792/30/d?subset_id=2&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/f4934a/00000000000000007735b792/30/a?subset_id=2&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"yantramanav";
+src:url("https://use.typekit.net/af/567398/00000000000000007735b795/30/l?subset_id=2&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/567398/00000000000000007735b795/30/d?subset_id=2&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/567398/00000000000000007735b795/30/a?subset_id=2&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"yantramanav";
+src:url("https://use.typekit.net/af/df85e9/00000000000000007735b79e/30/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/df85e9/00000000000000007735b79e/30/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/df85e9/00000000000000007735b79e/30/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-alfarn { font-family: "alfarn",sans-serif; }
+.tk-yantramanav { font-family: "yantramanav",sans-serif; }
